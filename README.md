@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LightTafy.
-- 👀 I’m interested in neuroscience and psicology.
-- 🌱 I’m currently learning C++ and Phython.
-- 💞️ I’m looking to collaborate on Lovemyself
+- 👋 Hi, I’m Sara, betterknow as @LightTafy.
+- 👀 I’m interested in Data Science and Project Managing
+- 🌱 I’m currently learning CSS, Power BI and CSS. 
 - 📫 business1saarg@gmail.com
 
 <!---
