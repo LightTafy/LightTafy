@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sara, betterknow as @LightTafy.
 - 👀 I’m interested in Data Science and Project Managing
-- 🌱 I’m currently learning CSS, Power BI and CSS. 
+- 🌱 I’m currently learning JAVASCRIP, Power BI, JAVA and CSS. 
 - 📫 business1saarg@gmail.com
 
 <!---
